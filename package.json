@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/peers-widget",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A widget for displaying peer information on the bPanel Dashboard",
   "main": "dist/index.js",
   "scripts": {
@@ -21,6 +21,7 @@
   "author": "bcoin-org",
   "license": "MIT",
   "dependencies": {
+    "@bpanel/dashboard": "^0.0.1",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-runtime": "^6.23.0",
     "google-map-react": "^0.34.0",
