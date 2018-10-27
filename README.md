@@ -16,3 +16,11 @@ The map uses an external API to get approximate geolocations of nodes based on I
 Key, head to [ipstack](https://ipstack.com/) and add your key to your secrets.json located in your bpanel config
 directory (defaults to `~/.bpanel`). Must be running bPanel version 0.3.1 or above for secrets support.
 
+Your secrets.json should look something like this:
+
+```json
+{
+  "ipstack": "my-secret-key"
+}
+```
+
