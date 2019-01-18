@@ -1,6 +1,6 @@
 {
   "name": "@bpanel/peers-widget",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "A widget for displaying peer information on the bPanel Dashboard",
   "main": "dist/index.js",
   "scripts": {
